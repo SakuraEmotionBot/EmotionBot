@@ -1,0 +1,16 @@
+
+.container{
+  margin: 0 auto;
+  position: relative;
+  padding: 0;
+  margin-top: 100px;
+}
+#frame{
+  position: static;
+  background: #d4edda;
+
+}
+.notification{
+  text-align: center;
+  font-size: 15px;
+}
